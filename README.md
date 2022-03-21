@@ -6,7 +6,7 @@ Hello guys, I have completed this challenge. In my personal opinion, this challe
 At first I used "file , strings and exiftool" Commands ,  but I didn't get a result, so I thought about the name of the attached file in the challenge and searched for it, and I knew that this file is a USB Rubbery Ducky
 
 After searching, I found this useful <a href="https://www.ducktoolkit.com/decode">site</a> to decrypt the file :
-After decrypting this file, we got this file with the name : "duckeycode.txt" , And it contains this command :
+After decrypting this file, we got a file with the name : "duckeycode.txt" , And it contains this command :
 
 ![image](https://user-images.githubusercontent.com/95540609/159368522-2be901da-4e23-4b64-be2e-2704f38944a9.png)
 
@@ -24,6 +24,7 @@ I got this page :
 Here I needed to write a basic Python code to convert from x, X to numbers 0, 1 ..... this is the python code i used :
 ![image](https://user-images.githubusercontent.com/95540609/159373766-3e4af279-8083-40bf-9555-7f8414d81254.png)
 Now, we must decode these output  until we Capture The Flag 💪🏼⛳️
-haha this is very nice idea ;) 
+
+haha this is very nice idea to digital forensics challenges , I really enjoyed solving this challenge ;) 
 
 
