@@ -10,7 +10,7 @@ After decrypting this file, we got a file with the name : "duckeycode.txt" , And
 
 ![image](https://user-images.githubusercontent.com/95540609/159368522-2be901da-4e23-4b64-be2e-2704f38944a9.png)
 
-After This I changed this symbol ~ this |  ,in The Command .
+After This I changed this symbol ~ to this |  , in The Command .
 
 After I run the command in termenal i got a python file named : environ-74399.py
 i was open this file and i saw the python code , I noticed that the code contains this URL : 
